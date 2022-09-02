@@ -36,4 +36,5 @@ security, data hiding, simplicity, aesthetics
 
 ## Polymorphism
 
-Polymorphism is...
+The main concept of Polymorphism is method overriding
+One class can have many forms
