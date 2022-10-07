@@ -26,3 +26,4 @@ Use Case Diagram
         - A line from child class to superclass that extends a use case, but is not "necessary": Sorting a search is an extension of searching, but is not inherently necessary to the concept of searching
     - Inclusions
         - A line from one function to another that necessitates a use case, and shows a sequence of necessary actions: Buying a product is necessitated by adding a product to the cart. Buying a product cannot exist without having the product in a cart
+
