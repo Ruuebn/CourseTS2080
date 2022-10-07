@@ -1,3 +1,5 @@
+#### I have no idea why the notes look absolutely clapped on github, they look normal in my text editor. It's to do with when I moved all my files into a new directory, but I don't know how to fix it. Oh well.
+
 ### Class Diagrams
 
 ###### Class diagrams are mostly presented to the engineers in order to help write/design software.
